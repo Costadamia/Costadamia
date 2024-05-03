@@ -1,17 +1,17 @@
-# Alexis here 👋
 
-## Web developer
+<center>## Web developer</center>
+
+I have been preparing myself for 2 years in web development, starting with front-end technologies, beginning with HTML5, CSS3 and JavaScript. During this process I've participated in guided projects and taken courses and certifications to master these skills, projects that I've shared here.
+
+I have also done complete projects with WordPress, integrating e-coomerce and common functions on websites.
+
+I graduated from university as an industrial engineer and worked in multinational electronics industries for 3 years. In this period I collaborated in large teams, implementing methodologies for project management and execution, as well as process optimisation. 
+Since university I have had a great interest in programming, that's why I decided in the last years to focus on this web developing area, 
+
+I continue to learn to complete my training in front-end, and I intend to gain knowledge and experience with data analysis and back-end.
 
 <!--
-MarkDown Syntaxis
--Encabezados se colocan con almohadillas (#)
-- Strong (**) e Italic(*)
--Imagenes: ![nombre](enlace/archivo)
--Links: [Nombre](url "titulo al hacer hover")
-- Convertir rapido un texto en un link: Colocarlo entre <url> o <email>
-**Costadamia/Costadamia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
