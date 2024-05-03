@@ -1,6 +1,14 @@
-### Hi there 👋
+# Alexis here 👋
+
+## Web developer
 
 <!--
+MarkDown Syntaxis
+-Encabezados se colocan con almohadillas (#)
+- Strong (**) e Italic(*)
+-Imagenes: ![nombre](enlace/archivo)
+-Links: [Nombre](url "titulo al hacer hover")
+- Convertir rapido un texto en un link: Colocarlo entre <url> o <email>
 **Costadamia/Costadamia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
