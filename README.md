@@ -1,7 +1,7 @@
 
 ## Web developer
 
-📝 I have been preparing myself for 2 years in web development, starting with front-end technologies, beginning with HTML5, CSS3 and JavaScript. During this process I've participated in guided projects and taken courses and certifications to master these skills, projects that I've shared here.
+📝 I have been preparing myself for 2 years in web development, starting with front-end technologies, (HTML5, CSS3 and JavaScript). During this process I've participated in guided projects and taken courses and certifications to master these skills, projects that I've shared here.
 
 I have also done complete projects with WordPress, integrating e-coomerce and common functions on websites.
 
